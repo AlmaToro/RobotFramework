@@ -7,5 +7,5 @@ Repositorio on tehty Git Hubin opiskelua varten.
 
 Samalla on tarkoitus testata Robot Framework testityökalua verkkokaupassa. 
 
-![Verkkokaupan testisivu](https://www.saucedemo.com "Verkkokaupan testisivu")
+[Verkkokaupan testisivu](https://www.saucedemo.com)
 
